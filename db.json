@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "리액트 공부하기",
+      "isDone": true
+    },
+    {
+      "id": "1a52",
+      "title": "리액트는 어려워",
+      "isDone": false
+    },
+    {
+      "id": "69f0",
+      "title": "쉽지 않다",
+      "isDone": false
+    },
+    {
+      "id": "881b",
+      "title": "아이스아메리카노로 달래는중",
+      "isDone": false
+    }
+  ]
+}
